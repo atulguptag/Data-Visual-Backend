@@ -22,6 +22,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include('core.urls')),
     path('data/', include('core.urls')),
-    # path('/api/data/', views.get_data, name='get_data')
 ]
 
