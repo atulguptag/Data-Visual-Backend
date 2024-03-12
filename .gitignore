@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Json files
-*.json
+jsondata.json
 
 # Distribution / packaging
 .Python
